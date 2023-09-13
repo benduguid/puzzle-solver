@@ -21,15 +21,15 @@ C++ programming language
 ### Installation Instructions:
 
 Clone this repository to your local machine.
-Compile the source code using a C++ compiler.
-Run the executable to start solving Sudoku puzzles.
+<br/>Compile the source code using a C++ compiler.
+<br/>Run the executable to start solving Sudoku puzzles.
 
 ### Usage Instructions:
 
 Launch the application.
-Choose a random puzzle.
-Click the "Solve" button.
-The solved Sudoku puzzle will be displayed on the screen.
+<br/>Choose a random puzzle.
+<br/>Click the "Solve" button.
+<br/>The solved Sudoku puzzle will be displayed on the screen.
 
 ## Authors
 
