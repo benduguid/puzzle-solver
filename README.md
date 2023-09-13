@@ -1,6 +1,6 @@
 # Puzzle Solver
 
-Simple overview of use/purpose.
+A C++ program written to solve suduoku puzzles.
 
 ## Description
 
