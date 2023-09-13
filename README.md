@@ -1,4 +1,4 @@
-# Project Title
+# Puzzle Solver
 
 Simple overview of use/purpose.
 
